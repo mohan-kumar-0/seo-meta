@@ -1,0 +1,15 @@
+{
+    "name": "seo-meta",
+    "version": "1.0.0",
+    "description": "Professional utility for generating SEO metadata and JSON-LD schemas for web applications.",
+    "main": "index.js",
+    "keywords": [
+        "seo",
+        "meta",
+        "json-ld",
+        "schema",
+        "structured-data"
+    ],
+    "author": "Antigravity",
+    "license": "MIT"
+}
