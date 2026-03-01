@@ -1,15 +1,36 @@
 {
     "name": "seo-meta",
-    "version": "1.0.0",
-    "description": "Professional utility for generating SEO metadata and JSON-LD schemas for web applications.",
+    "version": "1.0.1",
+    "description": "Professional utility for generating SEO metadata, OpenGraph tags, Twitter cards, and JSON-LD structured data schemas for web applications and developer portfolios.",
     "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mohan-kumar-0/seo-meta.git"
+    },
+    "homepage": "https://github.com/mohan-kumar-0/seo-meta#readme",
+    "bugs": {
+        "url": "https://github.com/mohan-kumar-0/seo-meta/issues"
+    },
     "keywords": [
         "seo",
-        "meta",
+        "meta-tags",
         "json-ld",
-        "schema",
-        "structured-data"
+        "structured-data",
+        "opengraph",
+        "twitter-card",
+        "schema-org",
+        "google-search",
+        "rich-snippets",
+        "social-sharing",
+        "head-tags",
+        "web-seo",
+        "portfolio-seo",
+        "react-seo",
+        "next-seo"
     ],
-    "author": "Antigravity",
+    "author": "mohan-kumar-0",
     "license": "MIT"
 }
