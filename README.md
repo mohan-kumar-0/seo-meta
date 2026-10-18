@@ -193,3 +193,5 @@ tags.forEach(tag => {
 ## License
 
 MIT -- see [LICENSE](https://github.com/mohan-kumar-0/seo-meta/blob/main/LICENSE) for details.
+
+Made by [Mohan Kumar](https://kumarmohan.com)

@@ -1,6 +1,6 @@
 {
     "name": "seo-meta",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Professional utility for generating SEO metadata, OpenGraph tags, Twitter cards, and JSON-LD structured data schemas for web applications and developer portfolios.",
     "main": "index.js",
     "scripts": {
@@ -10,7 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/mohan-kumar-0/seo-meta.git"
     },
-    "homepage": "https://github.com/mohan-kumar-0/seo-meta#readme",
+    "homepage": "https://kumarmohan.com",
     "bugs": {
         "url": "https://github.com/mohan-kumar-0/seo-meta/issues"
     },
@@ -31,6 +31,9 @@
         "react-seo",
         "next-seo"
     ],
-    "author": "mohan-kumar-0",
+    "author": {
+        "name": "Mohan Kumar",
+        "url": "https://kumarmohan.com"
+    },
     "license": "MIT"
 }
